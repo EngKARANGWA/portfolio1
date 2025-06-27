@@ -266,7 +266,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-slate-950 text-slate-400">
         <div className="max-w-6xl mx-auto text-center">
-          <p>&copy; 2024 Cyrille ISHIMWE KARANGWA. All rights reserved.</p>
+          <p>&copy; 2025 Cyrille ISHIMWE KARANGWA. All rights reserved.</p>
         </div>
       </footer>
     </div>
